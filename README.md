@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## My Name is Philip Yao
+# Hi there 👋 im Philip Yao
 
 ### an aspiring developer
 <!--
