@@ -2,7 +2,7 @@
 
 ## My Name is Philip Yao
 
-### I am an aspiring Full-Stack Unicorn. 
+### I'm an aspiring Full-Stack Unicorn ✨🦄✨
 
 <!--
 **phipyao/phipyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
