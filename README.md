@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##My Name is Philip Yao
+## My Name is Philip Yao
 
-#I am an aspiring Full-Stack Unicorn. 
+# I am an aspiring Full-Stack Unicorn. 
 
 I like writing code, going to the gym, and folding origami.
 
