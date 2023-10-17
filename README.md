@@ -1,6 +1,8 @@
 # Hi there 👋 im Philip Yao
 
 ### an aspiring developer
+
+checkout my [website](https://phipyao.github.io/)!
 <!--
 **phipyao/phipyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
