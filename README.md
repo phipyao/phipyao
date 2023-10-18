@@ -1,6 +1,6 @@
 # Hi there 👋 im Philip Yao
 
-### an aspiring developer
+an aspiring developer
 
 checkout my [website](https://phipyao.github.io/)!
 <!--
