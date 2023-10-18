@@ -1,8 +1,10 @@
 # Hi there 👋 im Philip Yao
 
-checkout my [website](https://phipyao.github.io/)!
+Checkout my [website](https://phipyao.github.io/)!
 
-or read my [poems](https://phipyao.github.io/pages/poems.html)!
+or my [projects](https://phipyao.github.io/pages/projects.html). (under construction)
+
+or my [poems](https://phipyao.github.io/pages/poems.html).
 <!--
 **phipyao/phipyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
