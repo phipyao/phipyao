@@ -4,7 +4,28 @@ Checkout my [website](https://phipyao.github.io/)!
 
 I also write [poems](https://phipyao.github.io/pages/poems.html)!
 
-Courses:
+And make games!
+- [Starfall](https://www.lexaloffle.com/bbs/?tid=147709))
+- [Jack in the Box](https://jerrygu.itch.io/jack-in-the-box)
+
+Programming Languages:
+- Python
+- Java
+- C++
+- C
+- HTML
+- CSS
+- Javascript
+- C#
+- SQL
+- Lua
+- Kotlin
+- Dart
+- R
+- Assembly
+- Bash
+
+Courses Taken at UVA:
 - CS 2110 Software Development Methods 
 - CS 2120 Discrete Math and Theory 1
 - CS 2150 Program & Data Representation
