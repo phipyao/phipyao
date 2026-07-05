@@ -1,11 +1,8 @@
 # Hi there 👋 im Philip Yao
 
-I like making stuff:
+Checkout some games I've worked on:
 - [Starfall](https://www.lexaloffle.com/bbs/?tid=147709)
 - [Jack in the Box](https://jerrygu.itch.io/jack-in-the-box)
-
-Programming Languages:
-- Python, Java, C++, C, HTML, CSS, JavaScript, LUA, C#, Kotlin, Dart, Assembly, Bash, R, SQL
 
 <!--
 **phipyao/phipyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Programming Languages:
+- Python, Java, C++, C, HTML, CSS, JavaScript, LUA, C#, Kotlin, Dart, Assembly, Bash, R, SQL
+
 Courses Taken at UVA:
 - CS 2110 Software Development Methods 
 - CS 2120 Discrete Math and Theory 1
